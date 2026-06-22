@@ -18,7 +18,7 @@ Aquí tienes algunas de las tecnologías con las que trabajo en mi día a día:
 ---
 
 ### 🚀 Proyectos Destacados
-1. **[Recomendador de Coches con Machine Learning](https://github.com/sdahbaniiesruizgijon/EntornoServidor/tree/main/API_Inteligente)** Un sistema inteligente en **Python** que analiza el perfil socioeconómico de un usuario (ingresos, presupuesto, género) y predice el modelo de coche ideal, mostrando el porcentaje de acierto del modelo.
+1. **[Recomendador de Coches con Machine Learning](https://github.com/sdahbaniiesruizgijon/Formulario_IA.git)** Un sistema inteligente en **Python** que analiza el perfil socioeconómico de un usuario (ingresos, presupuesto, género) y predice el modelo de coche ideal, mostrando el porcentaje de acierto del modelo.
    * *Tech Stack:* Python, PHP, Docker.
 2. **[Sistema Rent a Car - Trabajo de Fin de Grado (TFG)](https://github.com/aalvarezruizgijon/Proyecto-Final.git)** Una plataforma web completa para la gestión y reserva de vehículos de alquiler. Desarrollada con **PHP nativo** bajo una arquitectura estricta de **Modelo-Vista-Controlador (MVC)**, destaca por reflejar fielmente las reglas de negocio, la gestión de inventario y el flujo de reservas de una empresa real.
    * *Tech Stack:* PHP, MVC, HTML5, CSS3, Bootstrap, MySQL.
