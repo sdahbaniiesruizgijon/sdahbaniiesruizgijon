@@ -43,4 +43,3 @@ Si quieres hablar sobre oportunidades laborales, colaborar en un proyecto o simp
 
 ---
 
-*“El código limpio siempre parece que fue escrito por alguien a quien le importa.” — Michael Feathers*
